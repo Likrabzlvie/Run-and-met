@@ -1,0 +1,50 @@
+[
+  {
+    "id": "r1",
+    "title": "Chemin des crêtes - départ lycée hôtelier",
+    "date": "Tomorrow, 7:00 AM",
+    "meetingPoint": "Lycée hôtelier",
+    "lat": 45.77607,
+    "lng": 3.04889,
+    "difficulty": "Débutant",
+    "type": "Courses",
+    "duration": "30-40 min",
+    "distance": "5 km",
+    "isAddedToMyRuns": false,
+    "gpxUrl": "https://gist.githubusercontent.com/Likrabzlvie/3070a777e9d1c5ef35d484f1805b98f9/raw/bac9403c6705be12109c36cc3590d89ea76fd1cc/Trajet%25201",
+    "organizerId": "u1",
+    "participants": ["u1", "u3"]
+  },
+  {
+    "id": "r-villeneuvette",
+    "title": "Découverte de Villeneuvette",
+    "date": "Sunday, 10:00 AM",
+    "meetingPoint": "Manufacture Royale de Villeneuvette",
+    "lat": 43.6083,
+    "lng": 3.3958,
+    "difficulty": "Intermédiaire",
+    "type": "Randonnées",
+    "duration": "1h 30m",
+    "distance": "6 km",
+    "isAddedToMyRuns": false,
+    "gpxUrl": "",
+    "organizerId": "u1",
+    "participants": ["u1"]
+  },
+  {
+    "id": "r2",
+    "title": "Weekend Ridge Hike",
+    "date": "Saturday, 9:00 AM",
+    "meetingPoint": "North Ridge Trailhead",
+    "lat": 51.515,
+    "lng": -0.1,
+    "difficulty": "Intermédiaire",
+    "type": "Randonnées",
+    "duration": "2 hours",
+    "distance": "10 km",
+    "isAddedToMyRuns": true,
+    "gpxUrl": "https://raw.githubusercontent.com/mpetazolli/leaflet-gpx/master/demo/demo.gpx",
+    "organizerId": "u2",
+    "participants": ["u2"]
+  }
+]
